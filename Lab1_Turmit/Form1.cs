@@ -49,7 +49,7 @@ namespace Lab1_Turmit
             Color.Gold
         };
 
-        private const int CellSize = 2;
+        private const int CellSize = 4;
         private int[,] field = new int[FieldWidth, FieldHeight];
         private int turmitX;
         private int turmitY;
